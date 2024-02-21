@@ -106,7 +106,7 @@ letter-spacing: -0.37px;
 text-align: left;
 }
 p{
-    color: rgb(251, 252, 254);
+    color: rgb(108, 130, 148);
 font-family: Public Sans;
 font-size: 15px;
 font-weight: 400;
@@ -130,3 +130,87 @@ border-radius: 24px;
     width: 129px;
     height: 48px;
 }
+.s3{
+    padding: 155px 165px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.s3 img{
+    width: 445px;
+    height: 284px;
+}
+h3{
+    color: rgb(54, 83, 107);
+font-family: Public Sans;
+font-size: 48px;
+font-weight: 400;
+line-height: 56px;
+letter-spacing: -0.37px;
+text-align: left;
+}
+.p1{
+    width: 445px;
+}
+.s4{
+    padding: 0px 165px 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    height: 290px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.p2{
+    margin-top: 16px;
+    text-align: center;
+}
+h4{
+    margin-top: 32px;
+    color: rgb(54, 83, 107);
+font-family: Public Sans;
+font-size: 18px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: -0.14px;
+text-align: center;
+}
+footer{
+    background: rgb(27, 38, 47);
+    padding: 31px 165px;
+    
+}
+.left2{
+    display: flex;
+    gap: 34px;
+    align-items: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left2 nav a{
+    color: rgb(251, 252, 254);
+font-family: Public Sans;
+font-size: 15px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0px;
+text-align: left;
+}
+i{
+    color: white;
+    font-size: 24px;
+}
+.right2{
+    display: flex;
+    gap: 24px;
+}
+
+
